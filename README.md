@@ -2,7 +2,7 @@
 
 ## Team Name: 
 ## Team Members: Brian Cavanaugh, Samuel Settie, Anthony Arshoun
-## Team Member Emails: bcc47@pitt.edu, 
+## Team Member Emails: bcc47@pitt.edu, sjs249@pitt.edu
 ## Canvas Group Number: 15
 ## Data Set 1:
 
