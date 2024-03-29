@@ -7,7 +7,8 @@
 ## Data Set 1: https://data.wprdc.org/dataset/ee735209-4de7-4ea4-b446-bf0f0f6d9cb3/resource/c2e1500a-a12a-4e91-be94-76c6a892b7e2/download/nhoodmedianage20112015.csv
 The median age at death is calculated for each municipality in Allegheny County. Data is based on the decedent's residence at the time of death, not the location where the death occurred.
 
-## Data Set 2:
+## Data Set 2: https://data.wprdc.org/dataset/allegheny-county-fast-food/resource/3c530161-2976-41ae-a0f0-7d3e74835049
+The Allegheny County Health Department has generated this list of fast food restaurants by exporting all chain restaurants without an alcohol permit from the County’s Fee and Permit System. A chain restaurant defined by the County is any restaurant that has more than one location in the County. Chain restaurants capture both local and national chains (including locally owned national chains) so long as there is one or more establishments in operation within the County.
 
 ## Data Set 3:
 
